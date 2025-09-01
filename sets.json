@@ -1,0 +1,10 @@
+[
+  {
+    "name": "なぞなぞ",
+    "url": "https://raw.githubusercontent.com/kyoshimori/kaoru/refs/heads/main/riddles.json"
+  },
+  {
+    "name": "クイズ",
+    "url": "https://raw.githubusercontent.com/kyoshimori/kaoru/refs/heads/main/quiz.json"
+  }
+]
